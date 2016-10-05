@@ -1,0 +1,17 @@
+2. CONFECCIÓN
+=================
+Para la elaboración de un manual de usuario se deberán de integrar los siguientes apartados normativos.
+
+	#. *Nombre del Sistema*: Nombre del sistema al que se refiere el manual. 
+
+	#. *Versión del Sistema*: La versión del sistema en el manual nos permitirá mantener un control sobre las modificaciones que han afectado al sistema original. 
+
+	#. *Tipo de Manual*: Se especifica el tipo de manual al que se hace referencia, ya permitiendo tener un control en nuestros manuales, además de una fácil identificación. 
+
+	#. *Poner una Imagen*: Es recomendable ilustrar el manual con una imagen 	representativa del sistema. 
+
+	#. *Fecha de Elaboración*: Es importante el incluir la fecha de elaboración, pues representa un punto de referencia y control. 
+
+	#. *Área donde fue elaborado*: Incluir el nombre del área en donde fue elaborado	el manual. 
+
+
